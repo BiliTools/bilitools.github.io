@@ -8,9 +8,9 @@ detail_image:
 
 ---
 
-# Hi
+# سلام، من بیلی هستم :)
 
-**Services:
+**خدمات**
 - Machine Learning
 - Deep Learning
 - Pattern Recognition
