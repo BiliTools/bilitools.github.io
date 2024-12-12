@@ -8,12 +8,13 @@ detail_image:
 
 ---
 
+<div dir="rtl" style="text-align: right;">
 # سلام، من بیلی هستم :)
 
 **خدمات**
-- Machine Learning
-- Deep Learning
-- Pattern Recognition
+- یادگیری ماشین
+- یادگیری عمیق
+- شناسایی الگو
 
-I also like the fashion world btw.
-
+من همچنین به دنیای مد علاقه دارم.
+</div>
