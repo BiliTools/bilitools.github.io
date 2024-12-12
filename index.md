@@ -8,9 +8,12 @@ detail_image:
 
 ---
 
-# سلام
+# Hi
 
-**Hi! im k3vzz**. I break stuff 4 fun! 
+**Services:
+- Machine Learning
+- Deep Learning
+- Pattern Recognition
 
 I also like the fashion world btw.
 
