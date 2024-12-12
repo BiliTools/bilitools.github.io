@@ -2,13 +2,13 @@
 layout: home
 permalink: /
 permalink_name: /Hi.txt
-title: cat k3vzz/Hi.txt
+title: cat Bili/Hi.txt
 
-detail_image: assets/k3vzzbuena.PNG
+detail_image: 
 
 ---
 
-# Who I am?
+# سلام
 
 **Hi! im k3vzz**. I break stuff 4 fun! 
 
