@@ -1,9 +1,9 @@
-title: "K3vzz"
-tagline: "AppSec Engineer"
+title: "Bili"
+tagline: "Computer Engineer"
 description: "This is my personal portfolio"
-github_username: K3vzzWasTaken
+github_username: bilitools
 baseurl: "/"
-url: "https://k3vzz.com"
+url: ""
 
 plugins:
   - jemoji
@@ -16,9 +16,7 @@ sass:
 highlighter: rouge
 
 header_pages:
-  - index.md
-  - read-me.md
-  - preview.md
+
 
 # set the size of the text to 'large' or 'small', default is small
 font-size: small
